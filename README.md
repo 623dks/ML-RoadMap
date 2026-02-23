@@ -1,4 +1,6 @@
 # ML-RoadMap
+```mermaid
+
 
 flowchart TD
     AI([🤖 Artificial Intelligence]) --> ML([📊 Machine Learning])
@@ -198,3 +200,4 @@ flowchart TD
     class NLP_TASKS,N1,N2,N3,N4,N5,N6,N7 nlp
     class LLM,LLM1,LLM2,LLM3,LLM4 nlp
     class MULTI,M1,M2,M3,M4,M5 multi
+    ```
